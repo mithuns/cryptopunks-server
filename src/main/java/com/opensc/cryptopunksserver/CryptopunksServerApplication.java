@@ -15,5 +15,4 @@ public class CryptopunksServerApplication {
     public ApplicationInit exBean() {
         return new ApplicationInit();
     }
-
 }
